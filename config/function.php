@@ -1,6 +1,6 @@
 <?php
 
-// $mysqli = mysqli_connect("localhost", "root", "", "db_warung");
+// $mysqli = mysqli_connect("localhost", "root", "", "db_restopenjara");
 // global $mysqli;
 
 function kd_cust_pemesanan()
