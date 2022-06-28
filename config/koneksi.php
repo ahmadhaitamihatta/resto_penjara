@@ -5,7 +5,7 @@ include_once("function.php");
 $server = "localhost";
 $username = "root";
 $password = "";
-$database = "db_warung";
+$database = "db_restopenjara";
 
 $mysqli = new mysqli($server, $username, $password, $database);
 
@@ -17,7 +17,7 @@ return $mysqli;
 // $db_host = "localhost";
 // $db_user = "root";
 // $db_pass = "";
-// $db_name = "db_warung";
+// $db_name = "db_restopenjara";
 
 // try {
 //     //create PDO connection 
